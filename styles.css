@@ -17,7 +17,8 @@
 }
 
 body {
-    font-family: 'Arial', sans-serif; /* Puedes cambiar a 'Roboto', 'Montserrat' o 'Open Sans' de Google Fonts */
+    font-family:   'Roboto', 'Arial' ,sans-serif; /* sans-serif; */
+    
     background-color: var(--color-dark-background);
     color: var(--color-text-light);
     line-height: 1.6;
